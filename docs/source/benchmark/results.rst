@@ -5516,6 +5516,7 @@ Biclique BCQS Benchmark
 .. list-table::
    :widths: 25 25 25 25 25
    :header-rows: 1
+
    * - Spins
      - Instance #
      - MCPG
@@ -6022,11 +6023,13 @@ Biclique BCQS Benchmark
      - -50.007568359375
      - nan
 
+
 3D BCQS Benchmark
 -----------------------------------
 .. list-table::
    :widths: 25 25 25 25 25
    :header-rows: 1
+
    * - Spins
      - Instance #
      - MCPG
