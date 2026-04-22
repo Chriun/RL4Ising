@@ -44,7 +44,9 @@ RL4Ising
    :maxdepth: 2
    :caption: Benchmark
 
-   benchmark/results
+   benchmark/baseline_results
+   benchmark/rl_results
+   benchmark/phys_results
 
 .. toctree::
    :maxdepth: 2
